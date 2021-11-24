@@ -1,5 +1,5 @@
-# codedCam
-Coded illumination for improved lensless imaging
+# CodedCam
+Coded Illumination for Improved Lensless Imaging
 
 [Paper](https://arxiv.org/abs/TBD) | [Supplementary results]() | [Data and Code]() are available.
 
