@@ -14,11 +14,10 @@ Supplementary results are available [here](https://drive.google.com/file/d/1wRPe
 ## Citation
 
 ```
-@inproceedings{zheng2021codedCam,
+@article{zheng2021codedCam,
   title={Coded illumination for improved lensless imaging},
   author={Yucheng Zheng and M. Salman Asif},
-  booktitle = {arXiv},
-  month     = {November},
+  journal = {arXiv preprint arXiv:2111.12862},
   year      = {2021},
 }
 ```
