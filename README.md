@@ -7,8 +7,7 @@ Coded Illumination for Improved Lensless Imaging
  [Yucheng Zheng](),
  [M. Salman Asif](https://intra.ece.ucr.edu/~sasif/)<br>
  UC Riverside 
-
-Supplementary results are available [here](https://drive.google.com/file/d/1wRPeQfOs9QMBPgHV84fZ_zxjChc_suJt/view?usp=sharing)
+ 
 
 
 ## Citation
